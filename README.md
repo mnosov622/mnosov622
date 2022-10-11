@@ -1,5 +1,4 @@
-[![header](https://github.com/mnosov622/mnosov622/blob/main/assets/profile.jpg)](https://www.linkedin.com/in/maxim-nosov-828894220/)
-
+## Hi 🖐️
 ## I'm front end developer with 2 years of experience
 
 ## Languages
