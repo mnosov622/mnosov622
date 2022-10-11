@@ -1,5 +1,5 @@
 ## Hi 🖐️
-## I'm front end developer with 2 years of experience creating the UI
+## I'm front end developer with 2 years of experience
 
 ## Languages
 ![HTML](https://img.shields.io/badge/HTML-03449F.svg?logo=HTML5&style=for-the-badge&logoColor=E9D54D)
