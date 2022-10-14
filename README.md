@@ -22,3 +22,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-03449F?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/max_n87)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-03449F?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/maxim-nosov-828894220/)
 [![Gmail](https://img.shields.io/badge/Gmail-03449F.svg?logo=Gmail&style=for-the-badge&logoColor=white)](mailto:mnosov622@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=mnosov622&color=blue&style=flat)
