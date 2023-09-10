@@ -10,7 +10,6 @@ I'm a front-end developer with 3 years of experience, passionate about building 
 ![PHP](https://img.shields.io/badge/PHP-03449F.svg?logo=PHP&style=for-the-badge&logoColor=ccc)
 
 ## Frameworks
-## Frameworks
 ![React](https://img.shields.io/badge/React-03449F.svg?logo=React&style=for-the-badge&logoColor=F8C52C)
 ![Angular](https://img.shields.io/badge/Angular-03449F.svg?logo=Angular&style=for-the-badge&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-03449F.svg?logo=Next.js&style=for-the-badge&logoColor=black)
