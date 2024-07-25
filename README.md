@@ -1,6 +1,6 @@
 # Hi there! 🖐️
 
-I'm a front-end developer with 4 years of experience, passionate about building web applications.
+I'm a front-end developer with 5 years of experience, passionate about building web applications.
 
 ## Languages
 ![HTML](https://img.shields.io/badge/HTML-03449F.svg?logo=HTML5&style=for-the-badge&logoColor=E9D54D)
